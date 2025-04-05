@@ -72,6 +72,8 @@ List of Maintainers ( An alphabetical list of maintainers for the InfraDDS Proje
 
 Hyde Sugiyama
 
+Jun Hase
+
 Ken Iizawa
 
 Kenji Tagashira
