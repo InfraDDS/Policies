@@ -37,13 +37,13 @@ InfraDDS Maintainer Grant/Revocation Policy
 
 An InfraDDS maintainer is a participant in InfraDDS who has the ability to merge pull requests directly into main branch on InfraDDS repositories. This ability grants the maintainers the ability to affect the progress of the InfraDDS project in a way non-maintainers cannot. Being an InfraDDS maintainer represents a significant level of trust to the broader project. Maintainer rights are not granted lightly, and will be reviewed as necessary to ensure that trust has not been violated.
 
-Granting Maintainer Rights
+# Granting Maintainer Rights
 
 Granting maintainer rights will be considered when a candidate has demonstrated the following in their interation with the project:
 
 - Contribution of significant new features to InfraDDS.
-- Submissions are free of obvious defects.
-- Submissions do not require many revisions.
+> Submissions are free of obvious defects.
+> Submissions do not require many revisions.
 - Consistent and meaningful code reviews of other people's pull requests.
 - Helping others in the community via channels such as the mailing list, GitHub. Issues and PRs, and the Slack channels
 
@@ -61,7 +61,7 @@ One final discussion with the candidate happens to ensure the candidate is ready
 
 If successful, the candidate is added to the appropriate GitHub group to gain maintainer access, as well as the maintainers Slack channel.
 
-Revoking Maintainer Rights
+# Revoking Maintainer Rights
 
 There are times when a maintainer will be removed in a peaceful way. For example, the maintainers may decide that someone should not have merge rights due to their lack of git knowledge. In this case, the maintainers can talk to this indvidual and work to revoke their maintainer access.
 
@@ -77,7 +77,8 @@ The person proposing revoking maintainer rights sends email to the list announci
 If the vote to remove is successful, the candidate will be removed from the GitHub group which has merge rights.
 Ideally, the revoked committer peacefully leaves the community. If this is not the case, the maintainers have documented the reason for removal above, and this can be shared with the broader community in support of their decision.
 
-List of Maintainers ( An alphabetical list of maintainers for the InfraDDS Project by last name: )
+# List of Maintainers 
+An alphabetical list of maintainers for the InfraDDS Project by last name:
 
 Hyde Sugiyama
 
