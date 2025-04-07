@@ -1,9 +1,10 @@
 
 This document describes a short process to effectively use GitHub to achieve the following main goals:
 
-Proposing a change.
-Reporting a bug.
-Making improvement suggestions.
+- Proposing a change.
+- Reporting a bug.
+- Making improvement suggestions.
+
 Note
 
 The intent of this document is not to teach the use of GitHub. The document just gathers some basic rules for a quick reference.
