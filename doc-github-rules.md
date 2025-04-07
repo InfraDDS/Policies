@@ -41,7 +41,7 @@ If you use the Github desktop app, see [Creating an issue or pull request](https
 Pull requests generally are open to community review and get accepted as-is or with requested changes. The more impactful the changes, the more review activity is to be expected.
 
 # PR Accept Phase
-Once a PR has received sufficient review and concerns are satisfied, a designated [Maintainer]([https://github.com/opiproject/opi/blob/main/Policies/MAINTAINERS.md](https://github.com/InfraDDS/Policies/blob/main/MAINTAINERS.md)) with sufficientpermissions can accept the Pull Request.
+Once a PR has received sufficient review and concerns are satisfied, a designated [Maintainer](https://github.com/InfraDDS/Policies/blob/main/MAINTAINERS.md) with sufficientpermissions can accept the Pull Request.
 
 # Directly Editing Artifacts
 Contributors with write access permission or higher have rights to directly edit documents and push changes. This practice should be used very sparingly, and only in the draft stages of documents, or to make trivial changes in documents already in use.
