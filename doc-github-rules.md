@@ -24,24 +24,24 @@ For more information, see [Creating an issue](https://docs.github.com/en/issues/
 # Create a fork
 You fork a repository to propose changes to the original repository. This is the recommended practice for community contributions.
 
-For more information, see Fork a repo.
+For more information, see [Fork a repo](https://docs.github.com/en/get-started/quickstart/fork-a-repo).
 
-If you use the Github desktop app, see Cloning and forking repositories fromGitHub Desktop.
+If you use the Github desktop app, see [Cloning and forking repositories fromGitHub Desktop](https://docs.github.com/en/desktop/contributing-and-collaborating-using-github-desktop/adding-and-cloning-repositories/cloning-and-forking-repositories-from-github-desktop).
 
-It's good practice to regularly sync your fork with the original repository. For more information, see Syncing a fork.
+It's good practice to regularly sync your fork with the original repository. For more information, see [Syncing a fork](https://docs.github.com/en/pull-requests/collaborating-with-pull-requests/working-with-forks/syncing-a-fork).
 
 # Create a Pull Request
 You can make any changes to a fork, including making branches and opening pull requests. If you want to contribute to the original repository, you can submit a pull request.
 
-For more information, see Creating a pull request from a fork.
+For more information, see [Creating a pull request from a fork](https://docs.github.com/en/pull-requests/collaborating-with-pull-requests/proposing-changes-to-your-work-with-pull-requests/creating-a-pull-request-from-a-fork).
 
-If you use the Github desktop app, see Creating an issue or pull request.
+If you use the Github desktop app, see [Creating an issue or pull request](https://docs.github.com/en/desktop/contributing-and-collaborating-using-github-desktop/working-with-your-remote-repository-on-github-or-github-enterprise/creating-an-issue-or-pull-request).
 
 # PR Review Phase
 Pull requests generally are open to community review and get accepted as-is or with requested changes. The more impactful the changes, the more review activity is to be expected.
 
 # PR Accept Phase
-Once a PR has received sufficient review and concerns are satisfied, a designated Maintainer with sufficientpermissions can accept the Pull Request.
+Once a PR has received sufficient review and concerns are satisfied, a designated [Maintainer]([https://github.com/opiproject/opi/blob/main/Policies/MAINTAINERS.md](https://github.com/InfraDDS/Policies/blob/main/MAINTAINERS.md)) with sufficientpermissions can accept the Pull Request.
 
 # Directly Editing Artifacts
 Contributors with write access permission or higher have rights to directly edit documents and push changes. This practice should be used very sparingly, and only in the draft stages of documents, or to make trivial changes in documents already in use.
