@@ -24,8 +24,8 @@ We recognize the need to have a few different groups with merge rights. For exam
 With the above in mind, the following three groups of maintainers exist inside of InfraDDS:
 
 - Maintainer Group Repositories Allowed To Merge
-- Dynamic Resource Allocation for Device Scalling ( https://github.com/InfraDDS/composable-dra-driver )
-- Kubernetes Operator for Composable infrastructure Resources ( https://github.com/InfraDDS/composable-resource-operator )
+- [Dynamic Resource Allocation for Device Scalling](https://github.com/InfraDDS/composable-dra-driver)
+- [Kubernetes Operator for Composable infrastructure Resources](https://github.com/InfraDDS/composable-resource-operator)
 - InfraDDS-maintainers	All InfraDDS repositories
 
 
