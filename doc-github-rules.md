@@ -62,8 +62,7 @@ A contributor would enter the checklist in the comment when creating the Issue o
 - [x] Fix TOC
 - [x] Add checklist section
 
-Note
-Any work item is check-marked with x when the related tasks are completed.
+Note: Any work item is check-marked with x when the related tasks are completed.
 
 # Tools
 [GitHub desktop](https://desktop.github.com/)
