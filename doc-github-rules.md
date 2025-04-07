@@ -19,7 +19,7 @@ Request that may need to be analyzed to find the proper course of action.
 Record information to put on backlog.
 Please, include relevant details the rest of the community needs to understand in order to discuss the issue effectively.
 
-For more information, see Creating an issue.
+For more information, see [Creating an issue](https://docs.github.com/en/issues/tracking-your-work-with-issues/creating-an-issue).
 
 # Create a fork
 You fork a repository to propose changes to the original repository. This is the recommended practice for community contributions.
