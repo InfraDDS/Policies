@@ -42,8 +42,8 @@ An InfraDDS maintainer is a participant in InfraDDS who has the ability to merge
 Granting maintainer rights will be considered when a candidate has demonstrated the following in their interation with the project:
 
 - Contribution of significant new features to InfraDDS.
- - Submissions are free of obvious defects.
- - Submissions do not require many revisions.
+  - Submissions are free of obvious defects.
+  - Submissions do not require many revisions.
 - Consistent and meaningful code reviews of other people's pull requests.
 - Helping others in the community via channels such as the mailing list, GitHub. Issues and PRs, and the Slack channels
 - The individual should have plans for sustained contribution to the project.
