@@ -60,12 +60,15 @@ A contributor would enter the checklist in the comment when creating the Issue o
 
 - [x] Fix TOC
 - [x] Add checklist section
-Note
 
+Note
 Any work item is check-marked with x when the related tasks are completed.
 
 # Tools
 [GitHub desktop](https://desktop.github.com/)
+
 [How to Use the Github Workflow](https://www.youtube.com/watch?v=8UguQzmswC4)
+
 [Visual studio code](https://code.visualstudio.com/)
+
 [Drawing tool: diagrams.net](https://www.diagrams.net/)
