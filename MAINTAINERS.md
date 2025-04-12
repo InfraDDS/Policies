@@ -75,16 +75,14 @@ However, there are times when a maintainer may need to be forcefully removed. Wh
 # List of Maintainers 
 An alphabetical list of maintainers for the InfraDDS Project by last name:
 
-Hyde Sugiyama
+- Hyde Sugiyama
 
-Jin Hase
+- Jin Hase
 
-Ken Iizawa
+- Ken Iizawa
 
-Kenji Tagashira
+- Kenji Tagashira
 
-Iwamoto
+- Masaharu Kanda
 
-Masaharu Kanda
-
-Micrle Gazzetti
+- Micrle Gazzetti
