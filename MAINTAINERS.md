@@ -26,7 +26,7 @@ We recognize the need to have a few different groups with merge rights.
 With the above in mind, the following three groups of maintainers exist inside of InfraDDS:
 
 - [Dynamic Device Scaler](https://github.com/InfraDDS/dynamic-device-scaler)
-- [Kubernetes Operator for Composable infrastructure Resources](https://github.com/InfraDDS/composable-resource-operator)
+- [Composable Resources Operator](https://github.com/InfraDDS/composable-resource-operator)
 - InfraDDS-maintainers All InfraDDS repositories
 
 This allows us to help merge policy based things in the InfraDDS repository. 
