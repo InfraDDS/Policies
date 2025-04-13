@@ -1,4 +1,6 @@
 # MAINTAINERS
+[The objective of the InfraDDS initiative](https://github.com/InfraDDS/README.md) is to foster a community-driven, standards-based open ecosystem for next-generation architectures and frameworks built on [Composable Disaggregated Infrastructure technology](https://github.com/InfraDDS/README.md/blob/main/SPEC.md).
+
 InfraDDS maintainers do the work of keeping the project running.
 
 Maintainers do the following things in support of InfraDDS projects:
