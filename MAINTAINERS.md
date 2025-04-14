@@ -88,3 +88,5 @@ An alphabetical list of maintainers for the InfraDDS Project by last name:
 - Masaharu Kanda
 
 - Micrle Gazzetti
+
+- Toshihiro Iwamoto
